@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TI SDK Emulator & Diagnostic Shell
 
 A command-line tool for simulating and testing TI SDK behavior, particularly focusing on GPIO, UART, and ADC functionality.
@@ -115,3 +116,7 @@ Run the emulator:
 ## License
 
 MIT License - see LICENSE file for details 
+=======
+# SDK-Emulator-Diagnostic-Shell
+A modular C++ SDK and diagnostic shell designed for rapid development, testing, and emulation. Built with CMake and Conan, this project features a robust command-line interface, web integration, and comprehensive unit testing—making it ideal for prototyping, diagnostics, and cross-platform development
+>>>>>>> 4c614aed7116f63ed731c49f0340acff88a4c9cf
